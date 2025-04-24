@@ -50,3 +50,12 @@ O tabuleiro é exibido no terminal como uma matriz 8x8:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/netolol/xadrez.git
+Compile o arquivo C:
+
+	gcc main.c -o xadrez
+
+Execute o programa:
+
+	./xadrez
+
+Siga as instruções para informar a posição inicial da peça.
